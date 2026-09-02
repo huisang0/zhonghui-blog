@@ -8,7 +8,11 @@ category: '学术'
 draft: false 
 lang: ''
 ---
+
 # 摘要
+
+
+<a href="src\content\posts\sxjm\终稿.pdf" download="测试u.pdf">点击下载博客Mock数据</a>
 
 针对空地导弹威胁下圆柱形真目标的烟幕遮蔽防护问题，本文构建了无人机-烟幕弹-导弹的协同建模与优化体系，旨在通过设计无人机飞行及烟幕弹投放策略，最大化真目标的有效遮蔽时长。
 
