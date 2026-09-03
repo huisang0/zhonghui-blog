@@ -4,7 +4,7 @@ published: 2025-05-25
 description: '告别甘露，有感而发。'
 image: ''
 tags: [甘露支教团, 告别]
-category: '随笔'
+category: '大学生活'
 draft: false 
 lang: ''
 ---
